@@ -1,0 +1,58 @@
+
+body{
+    font-family: arial;
+    font-size: 20px;
+    background: url('https://i2-prod.liverpoolecho.co.uk/incoming/article15020962.ece/ALTERNATES/s1227b/0_JS159663369.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+   margin-left: 15px;
+   color: #ffffff
+}
+
+
+header{
+    background: #1f88f4;
+    color: #ffffff;
+        padding: 5px ;
+    font-size: 20px;
+    text-align: center;
+  margin-left: -50px;
+}
+
+
+
+.questions{
+    font-size: 30px;
+    font-weight: bold;
+       margin-left: 70px;
+    font-family: 'Passion One', cursive;
+    
+}
+
+button {
+    font-size: 16px;
+    background: #1f88f4;
+    padding: 10px;
+     border-radius: 5px 0 0 5px;
+    margin-top: 30px;
+    text-align: center;
+    color: #ffffff;
+}
+
+
+li
+{
+  list-style: none;
+}
+
+main
+{
+  margin: 0px auto;
+}
+
+@media only screen and (max-width:900px){
+    .container{
+        width: 90%;
+    }
+
+}
